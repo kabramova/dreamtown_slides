@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/183105/5f8715a37d1b423db25dbf3863493d69
+bundleId: https://api.rpubs.com/api/v1/document/183105/5f8715a37d1b423db25dbf3863493d69
+url: http://rpubs.com/kabramova/183105
+when: 1463995083.87005
